@@ -1,19 +1,11 @@
-#Take an input character from user and check whether it is an alphabet or not.
-
+#Take an input character from the user and check whether it is an alphabet or not.
 #Input :
-
 #A
-
 #Output: 
-
 #Alphabet
-
-#Input:
-
+#Input
 #7
-
 #Output:
-
 #Not an alphabet
 
 
